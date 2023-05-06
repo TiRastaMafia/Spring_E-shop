@@ -33,7 +33,6 @@ Entytles:
 	- nds, sales (optional)
 	- archive
 
-
 2. User
 	- id
 	- username
