@@ -1,6 +1,12 @@
-front <----> back <-----> DB (PostgreSQL) 
+# Project on the SPRING FREAMWORK
 
-Technologies: 
+## **Discription:**
+
+### front <----> back <-----> DB (PostgreSQL) 
+
+***
+
+## Technologies: 
 - boot
 - web
 - security
@@ -10,7 +16,7 @@ Technologies:
 	- flyway
 	- lombok
 
-Features:
+## Features:
 - Аутентификация и регистрация пользователей.
 - Защита веб-приложения. 
 - Просмотр товаров.
@@ -24,7 +30,7 @@ Features:
 - Навигация.
 
 
-Entytles:
+## Entytles:
 1. Product
 	- id
 	- title
@@ -50,7 +56,7 @@ Entytles:
 
 4. Order
 
-	-td
+	- id
 	- created date
 	- Last change date
 	- completed date
